@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="PrimaryBlueColor">#81A2D7</color>
+    <color name="SecondaryBlueColor">#7B9ACD</color>
+    <color name="primaryWhiteColor">#EEEEEE</color>
+    <color name="PrimaryYellowColor">#FFE188</color>
+    <color name="SecondaryYellowColor">#FECF6A</color>
+    <color name="DarkYellowColor">#E08836</color>
+    <color name="PrimaryDarkColor">#31363F</color>
+    <color name="SecondaryDarkColor">#222831</color>
+</resources>

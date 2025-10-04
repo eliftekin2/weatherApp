@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="@android:color/transparent"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/hour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/transparent"
+        android:textSize="16sp"
+        android:fontFamily="@font/nunito_light"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/hourly_weather_icon"
+        android:background="@android:color/transparent"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="8dp"
+        app:srcCompat="@drawable/wind" />
+
+    <TextView
+        android:id="@+id/hourly_temp"
+        android:background="@android:color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:fontFamily="@font/nunito_light"
+        android:text="16" />
+</LinearLayout>

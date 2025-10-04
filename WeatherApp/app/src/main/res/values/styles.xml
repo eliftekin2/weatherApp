@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="MorningTheme">
+        <item name="android:background">@color/PrimaryBlueColor</item>
+        <item name="android:textColor">@color/primaryWhiteColor</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="recyclerBackgroundColor">@color/SecondaryBlueColor</item>
+        <item name="tint">@color/primaryWhiteColor</item>
+    </style>
+
+    <style name="DayTheme">
+        <item name="android:background">@color/PrimaryYellowColor</item>
+        <item name="android:textColor">@color/DarkYellowColor</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="recyclerBackgroundColor">@color/SecondaryYellowColor</item>
+        <item name="android:tint">@color/DarkYellowColor</item>
+    </style>
+
+    <style name="NightTheme">
+        <item name="android:background">@color/PrimaryDarkColor</item>
+        <item name="android:textColor">@color/primaryWhiteColor</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="recyclerBackgroundColor">@color/SecondaryDarkColor</item>
+        <item name="tint">@color/primaryWhiteColor</item>
+    </style>
+    
+</resources>
