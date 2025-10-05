@@ -20,6 +20,7 @@
   <li>Coroutines</li>
 </ul>
 <h2>Preview</h2>
+
 <h4>Themes</h4>
 <img height="400" alt="Screenshot_1759606635" src="https://github.com/user-attachments/assets/f149b71a-411d-44cd-8111-3d160da9ed5c" />
 &nbsp;&nbsp;&nbsp;
@@ -27,6 +28,10 @@
 &nbsp;&nbsp;&nbsp;
 <img height="400" alt="Screenshot_1759606550" src="https://github.com/user-attachments/assets/0f103c1d-ed6e-433c-b22e-11ddcfdc9ec9" />
 
+<h4>Secreens</h4>
+<img height="400" alt="Screenshot_1759606550" src="https://github.com/user-attachments/assets/bb84be85-e2e2-402c-b0e3-b5c8fd875624" />
+&nbsp;&nbsp;&nbsp;
+<img height="400" alt="Screenshot_1759606586" src="https://github.com/user-attachments/assets/9499b276-ffeb-4ff5-b6cf-1f7f7daa3f5f" />
 
 <h4>In-App</h4>
 <img height= 400 src="https://github.com/user-attachments/assets/eca7b2c5-d78d-4933-98fe-c933f47eb0de"/>
